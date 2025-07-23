@@ -5,7 +5,7 @@ Este es el portafolio web de Anyerson Dev, un desarrollador Full Stack especiali
 
 ## 🌐 Vista previa
 
-![Vista previa del portafolio](./assets/readme/review.jpg) <!-- Reemplaza con una imagen si tienes -->
+![Vista previa del portafolio](./assets/principal) <!-- Reemplaza con una imagen si tienes -->
 
 ---
 
